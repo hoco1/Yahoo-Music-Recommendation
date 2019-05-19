@@ -1,5 +1,5 @@
 # Yahoo Music Recommendation System
-In this project we are bulding a Recommender System based on the heirarchial music data set of Yahoo. This project is currently in progress and will be uploaded on github shortly.
+In this project we have built a Recommender System based on the heirarchial music data set of Yahoo. 
 
 ## Dataset Description and the competition
 This is the final challenge of the EE627 course.
