@@ -1,6 +1,6 @@
 # <div align="center"> Yahoo Music Recommendation System </div>
 
-<p align = "center"><img width="600" img height="400" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png</p>
+<p align = "center"><img width="600" img height="400" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png </p>
 
 In this project we have built a Recommender System based on the heirarchial music data set of Yahoo. 
 
