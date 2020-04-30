@@ -16,5 +16,5 @@ Now, after learning the factorial matrix and other useful algorithms. It's our t
 * genreData2.txt -- Genre listing formatted as: <'GenreId'>
 
 
-<img width="600" img height="300" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png
+<p align = 'left><img width="600" img height="300" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png</p>
 
