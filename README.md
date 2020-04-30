@@ -1,5 +1,5 @@
 # <div align="center"> Yahoo Music Recommendation System </div>
-<div align="center"> In this project we have built a Recommender System based on the heirarchial music data set of Yahoo. </div>
+ In this project we have built a Recommender System based on the heirarchial music data set of Yahoo. 
 
 ## Dataset Description and the competition
 This is the final challenge of the EE627 course.
