@@ -1,4 +1,4 @@
-# <div align="center"> Yahoo Music Recommendation System </div>
+# Yahoo Music Recommendation System
  In this project we have built a Recommender System based on the heirarchial music data set of Yahoo. 
 
 ## Dataset Description and the competition
