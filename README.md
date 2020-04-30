@@ -15,8 +15,6 @@ Now, after learning the factorial matrix and other useful algorithms. It's our t
 * artistData2.txt -- Artist listing formatted as: <'ArtistId'>
 * genreData2.txt -- Genre listing formatted as: <'GenreId'>
 
-## Link to the Competition
-https://www.kaggle.com/c/ee627A-Spring2019/overview
 
 <p align = "center"><img width="600" img height="300" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png </p>
 
