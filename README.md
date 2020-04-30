@@ -1,7 +1,7 @@
 # Yahoo Music Recommendation System
  In this project we have built a Recommender System based on the heirarchial music data set of Yahoo.
  
- <p align = 'left'><img width="600" img height="300" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png </p>
+ <p align = 'left'><img width="600" img height="200" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png </p>
 
 
 
