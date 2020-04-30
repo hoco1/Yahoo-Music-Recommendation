@@ -1,5 +1,9 @@
 # Yahoo Music Recommendation System
- In this project we have built a Recommender System based on the heirarchial music data set of Yahoo. 
+ In this project we have built a Recommender System based on the heirarchial music data set of Yahoo.
+ 
+ <p align = 'left'><img width="600" img height="300" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png </p>
+
+
 
 ## Dataset Description and the competition
 This is the final challenge of the EE627 course.
@@ -14,7 +18,4 @@ Now, after learning the factorial matrix and other useful algorithms. It's our t
 * albumData2.txt -- Album information formatted as: <'AlbumId'>|<'ArtistId'>|<'Optional GenreId_1'>|...|<'Optional GenreId_k'>
 * artistData2.txt -- Artist listing formatted as: <'ArtistId'>
 * genreData2.txt -- Genre listing formatted as: <'GenreId'>
-
-
-<p align = 'left'><img width="600" img height="300" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png </p>
 
