@@ -1,10 +1,6 @@
 # <div align="center"> Yahoo Music Recommendation System </div>
 <div align="center"> In this project we have built a Recommender System based on the heirarchial music data set of Yahoo. </div>
 
-<p align = "center"><img width="600" img height="300" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png </p>
-
-
-
 ## Dataset Description and the competition
 This is the final challenge of the EE627 course.
 Nowadays, technology companies often use recommender algorithm to recommend products, music, movie, etc. Recommender algorithm is really useful and helps all those companies make a huge profit.
@@ -21,3 +17,6 @@ Now, after learning the factorial matrix and other useful algorithms. It's our t
 
 ## Link to the Competition
 https://www.kaggle.com/c/ee627A-Spring2019/overview
+
+<p align = "center"><img width="600" img height="300" src = https://github.com/siddh30/Yahoo-Music-Recommendation/blob/master/logo.png </p>
+
