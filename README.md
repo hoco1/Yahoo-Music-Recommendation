@@ -4,7 +4,7 @@
 
 
 
-## Project Overview.
+### Project Overview.
 This is the final challenge of the EE627 course. In this project we have built a Recommender System based on the heirarchial music data set of Yahoo. Nowadays, technology companies often use recommender algorithm to recommend products, music, movie, etc. Recommender algorithm is really useful and helps all those companies make a huge profit.
 Now, after learning the factorial matrix and other useful algorithms. It's our turn to solve the problem which Spotify, Amazon, and Yahoo Music faced every day - recommend music to their customers.
 
